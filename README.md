@@ -1,6 +1,6 @@
 # Scantist example-maven-circle
 
-## Below is the depedencies (direct & transitive) from this project - test 112
+## Below is the depedencies (direct & transitive) from this project 
 
   [INFO] +- com.google.code.findbugs:jsr305:jar:3.0.1:compile<br/>
  [INFO] +- args4j:args4j:jar:2.33:compile<br/>
